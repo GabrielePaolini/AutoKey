@@ -1,0 +1,22 @@
+R"=====(DESCRIPTION:
+AUTO-KEY is a little program written in C++ that allows the user to give 
+a sequence of alphanumericals and/or control sequences via virtual keyboard. 
+Every character will be typed automatically by the program, 
+followed by the next one in the sequence after a specific period of time 
+(expressed in milliseconds), defined by the user.
+
+INSTRUCTIONS:
+The user will first be asked to enter the character to be simulated. 
+By pressing ENTER, the user will then be prompted to insert an integer 
+number that defines the delay, in milliseconds, between the keying of 
+a character and the next one. 
+To terminate this procedure, press ESC on the keyboard. 
+After that, the program will give 3 seconds to select the program/window 
+on which we want to simulate typing. 
+Type "cls" at any moment in the menu to clear the screen. 
+
+IMPORTANT NOTES FOR THE CURRRENT VERSION:
+To terminate the program, it's necessary to close the terminal on which
+AUTO-KEY was started (by pressing CTRL+C with the terminal window focused, for example).
+The program was written using standard Windows libraries.
+)====="

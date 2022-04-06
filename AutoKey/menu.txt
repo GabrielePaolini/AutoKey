@@ -1,0 +1,5 @@
+R"=====(AUTO-KEY 0.4 by Gabriele Paolini (default, Mar 18 2020, 11:03)
+[g++ 9.2.0 (tdm64-1)] on windows
+Type "go" to execute the main program, "help", "credits" or "license" for more information.
+Read operating instructions before use.
+)====="

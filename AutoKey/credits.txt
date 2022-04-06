@@ -1,0 +1,4 @@
+R"=====(Project: AUTO-KEY
+Author: Gabriele Paolini (GabrielePaolini on Github)
+Code version: 0.4
+)====="
